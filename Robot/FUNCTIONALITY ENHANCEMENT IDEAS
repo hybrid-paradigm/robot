@@ -1,0 +1,11 @@
+
+============================================================
+
+If I were to work on this application I would add the following Features:
+
+1) Java GUI - Conssting of the following modules from the javax.swing library:
+JPanel, JFrame, JButtons, SwingUtilities
+
+2) I have included an example python graphing script that could be altered to implement graphing for this project
+
+============================================================

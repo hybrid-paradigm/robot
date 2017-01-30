@@ -1,0 +1,71 @@
+
+============================================================
+
+Lets play with the Robot
+
+Please enter the following :
+
+The Board Layout is: 5x5: 
+Select X position where you wish to place you player
+3
+Select Y position where you wish to place you player
+3
+Select direction you wish for your player: Type (N) for North, (S) for South, (E) for East, (W) for West
+S
+Your player is located at: 3:3:S
+Would you like to try another move (MOVE) or turn left (LEFT) or turn right (RIGHT) or Report the location (REPORT) or place the player somewhere (PLACE) or print Board (PRINT) :
+
+REPORT
+Your player is located at: 3:3:SOUTH
+Would you like to try another move (MOVE) or turn left (LEFT) or turn right (RIGHT) or Report the location (REPORT) or place the player somewhere (PLACE) or print Board (PRINT) :
+
+MOVE
+The current location is: 3:3:1
+
+Please select a move player
+LOCATION: [I@30fa8ba9
+Would you like to try another move (MOVE) or turn left (LEFT) or turn right (RIGHT) or Report the location (REPORT) or place the player somewhere (PLACE) or print Board (PRINT) :
+
+REPORT
+Your player is located at: 3:2:SOUTH
+Would you like to try another move (MOVE) or turn left (LEFT) or turn right (RIGHT) or Report the location (REPORT) or place the player somewhere (PLACE) or print Board (PRINT) :
+
+LEFT
+Would you like to try another move (MOVE) or turn left (LEFT) or turn right (RIGHT) or Report the location (REPORT) or place the player somewhere (PLACE) or print Board (PRINT) :
+
+REPORT
+Your player is located at: 3:2:EAST
+Would you like to try another move (MOVE) or turn left (LEFT) or turn right (RIGHT) or Report the location (REPORT) or place the player somewhere (PLACE) or print Board (PRINT) :
+
+MOVE
+The current location is: 3:2:2
+
+Please select a move player
+LOCATION: [I@30fa8ba9
+Would you like to try another move (MOVE) or turn left (LEFT) or turn right (RIGHT) or Report the location (REPORT) or place the player somewhere (PLACE) or print Board (PRINT) :
+
+REPORT
+Your player is located at: 4:2:EAST
+Would you like to try another move (MOVE) or turn left (LEFT) or turn right (RIGHT) or Report the location (REPORT) or place the player somewhere (PLACE) or print Board (PRINT) :
+
+RIGHT
+Would you like to try another move (MOVE) or turn left (LEFT) or turn right (RIGHT) or Report the location (REPORT) or place the player somewhere (PLACE) or print Board (PRINT) :
+
+REPORT
+Your player is located at: 4:2:WEST
+Would you like to try another move (MOVE) or turn left (LEFT) or turn right (RIGHT) or Report the location (REPORT) or place the player somewhere (PLACE) or print Board (PRINT) :
+
+PLACE
+Select X position where you wish to place you player
+4
+Select Y position where you wish to place you player
+2
+Select direction you wish for your player: Type (N) for North, (S) for South, (E) for East, (W) for West
+S
+Your player is located at: 4:2:S
+Would you like to try another move (MOVE) or turn left (LEFT) or turn right (RIGHT) or Report the location (REPORT) or place the player somewhere (PLACE) or print Board (PRINT) :
+
+EXIT
+Thanks for playing Robot ... please play again soon
+
+============================================================================================================
